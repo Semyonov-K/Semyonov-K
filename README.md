@@ -13,6 +13,13 @@ I am BackEnd developer
 - :telescope: I am looking for work 🙂
 - :book: Currently taking courses on Python
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mrhehehe-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Mrhehehe)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
 <!--
 **Semyonov-K/Semyonov-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
