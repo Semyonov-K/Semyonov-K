@@ -26,6 +26,11 @@ I am BackEnd developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Semyonov-K&theme=vue-dark)](https://git.io/streak-stats)
 <!--
 **Semyonov-K/Semyonov-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
