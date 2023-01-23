@@ -8,6 +8,10 @@
 ---
 
 ### :man_technologist: About Me:
+I am BackEnd developer
+
+- :telescope: I am looking for work 🙂
+- :book: 
 <!--
 **Semyonov-K/Semyonov-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
