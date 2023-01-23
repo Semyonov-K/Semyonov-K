@@ -5,6 +5,9 @@
   <img src="https://media2.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+
+### :man_technologist: About Me:
 <!--
 **Semyonov-K/Semyonov-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
