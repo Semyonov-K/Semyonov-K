@@ -11,8 +11,7 @@
 I am BackEnd developer
 
 - :telescope: I am looking for work 🙂
-- :book: Currently taking courses on Python
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mrhehehe-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Mrhehehe)
+
 
 ---
 
