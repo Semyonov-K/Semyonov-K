@@ -1,17 +1,3 @@
-<h1 align="center">
-  Hi there 👋
-</h1>
-<div align="center">
-  <img src="https://media2.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="300"/>
-</div>
-
----
-
-### :man_technologist: About Me:
-I am BackEnd developer
-
-- :telescope: I am looking for work 🙂
-
 
 ---
 
